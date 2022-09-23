@@ -1,0 +1,14 @@
+.dealership{
+    background-image: url('https://motors.stylemixthemes.com/wp-content/uploads/2020/10/02.jpg?id=2408');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    padding: 5rem;
+}
+.bg-dealer{
+    background-color: #081952;
+    color: white;
+    padding: 5rem;
+    
+ 
+}
